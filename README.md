@@ -16,15 +16,11 @@
 
 📍 Based in **Ujjain, Madhya Pradesh, India**
 
-
 💻 A passionate **Full-Stack JavaScript Developer** specializing in the **MERN Stack** — MongoDB · Express.js · React.js · Node.js
-
 
 🎯 Strong foundation in **Object-Oriented Programming (OOP), Database Management Systems (DBMS), and Data Structures & Algorithms (DSA)**
 
-
 🎨 I love designing and developing scalable, user-centric web applications with clean architecture, efficient performance, and visually appealing interfaces.
-
 
 🚀 Enthusiastic about building reusable UI components, implementing modern design systems, and continuously learning new technologies to enhance user experience and product quality.
 
