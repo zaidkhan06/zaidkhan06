@@ -7,8 +7,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=2500&pause=700&center=true&vCenter=true&width=700&height=60&color=FF6B6B%2CFFD93D%2C6BCB77%2C4D96FF&lines=Full+Stack+Developer+%26+UI%2FUX+Engineer+%F0%9F%92%BB;Building+Design+Systems+%26+Beautiful+Interfaces+%E2%9C%A8;Lifelong+Learner+%26+Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
+<!-- <p>I don’t just write code — I craft experiences.</p> -->
+<!-- ⚡ Love mentoring aspiring developers and sharing knowledge about **modern JavaScript ecosystems**. -->
 ---
+
+
 ### 👨‍💻 About Me
 
 📍 Based in **Ujjain, Madhya Pradesh, India**
@@ -16,6 +19,8 @@
 🎯 Strong foundation in **Object-Oriented Programming (OOP), Database Management Systems (DBMS), and Data Structures & Algorithms (DSA)**
 🎨 I love designing and developing scalable, user-centric web applications with clean architecture, efficient performance, and visually appealing interfaces.
 🚀 Enthusiastic about building reusable UI components, implementing modern design systems, and continuously learning new technologies to enhance user experience and product quality.
+
+
 ---
 
 ### 🌐 Connect With Me
