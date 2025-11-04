@@ -10,7 +10,6 @@
 <!-- <p>I don’t just write code — I craft experiences.</p> -->
 <!-- ⚡ Love mentoring aspiring developers and sharing knowledge about **modern JavaScript ecosystems**. -->
 ---
-
 ### 👨‍💻 About Me
 
 📍 Based in **Ujjain, Madhya Pradesh, India**
@@ -18,8 +17,6 @@
 🎯 Strong foundation in **Object-Oriented Programming (OOP), Database Management Systems (DBMS), and Data Structures & Algorithms (DSA)**
 🎨 I love designing and developing scalable, user-centric web applications with clean architecture, efficient performance, and visually appealing interfaces.
 🚀 Enthusiastic about building reusable UI components, implementing modern design systems, and continuously learning new technologies to enhance user experience and product quality.
-
-
 ---
 
 ### 🌐 Connect With Me
