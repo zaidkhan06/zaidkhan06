@@ -173,4 +173,4 @@ A **Job Platform** designed to help job seekers find and apply to opportunities 
 ---
 
 ### ⚡ Fun Fact
-> “i don’t just write code — I craft experiences.”
+> “I don’t just write code — I craft experiences.”
