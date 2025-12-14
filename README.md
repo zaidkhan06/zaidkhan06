@@ -105,26 +105,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
----
-
-#### 🛒 Shopping24 (E-Commerce Platform)
-[![Repo](https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)]()
-[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://shoping24k.netlify.app)
-
-A complete **e-commerce web application** where users can browse products, add to cart, and place orders.
-
-- 🌟 **Key Features:**
-  - Full **product catalog** with categories & search
-  - **User authentication & profile management**
-  - **Shopping cart & checkout** with secure payment integration
-  - **Admin dashboard** for product & order management
-  - Responsive design for desktop & mobile
-
-- 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · Redux · TailwindCSS · JWT Authentication
-
-
 
 
 ### 📊 GitHub Stats
