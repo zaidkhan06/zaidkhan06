@@ -119,4 +119,4 @@
 ---
 
 ### ⚡ Fun Fact
-> “I don’t just write code — I craft experiences.”
+> “ don’t just write code — I craft experiences.”
