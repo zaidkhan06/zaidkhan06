@@ -35,7 +35,7 @@ const zaid = {
   role: "Full Stack JavaScript Developer",
   
   techStack: {
-    frontend: ["React.js", "JavaScript", "HTML", "CSS", "Tailwind"],
+    frontend: ["React.js", "JavaScript", "HTML", "CSS", "Tailwind", "Java"],
     backend: ["Node.js", "Express.js"],
     database: ["MongoDB", "MySQL"],
   },
