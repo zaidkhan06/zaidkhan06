@@ -53,19 +53,17 @@ const zaid = {
 <!-- ================= TECH STACK ================= -->
 🧰 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,postman,figma,vercel,netlify,render&perline=8"/> </p>
-<!-- ================= GITHUB STATS ================= -->
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  
+
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=zaidkhan06&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
+  src="https://github-readme-stats.vercel.app/api?username=zaidkhan06&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=86400" 
   height="180"
 />
 
 <img 
-  src="https://streak-stats.demolab.com?user=zaidkhan06&theme=tokyonight&hide_border=true&border_radius=15" 
+  src="https://streak-stats.demolab.com/?user=zaidkhan06&theme=tokyonight&hide_border=true&border_radius=15" 
   height="180"
 />
 
@@ -74,7 +72,7 @@ const zaid = {
 <p align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidkhan06&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidkhan06&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=86400" 
   height="180"
 />
 
