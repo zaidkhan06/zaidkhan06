@@ -80,6 +80,13 @@ const zaid = {
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/zaidkhan06/zaidkhan06/output/github-contribution-grid-snake.svg"/> </p>
 <!-- ================= FUN FACT ================= -->
-⚡ Fun Fact
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=I+don’t+just+write+code+—+I+craft+experiences."/> </p>
-<!-- ================= FOOTER ================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:141E30,50:243B55,100:141E30"/> </p> 
+## ⚡ Fun Fact
+
+<p align="center">
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=I%20don%27t%20just%20write%20code%20-%20I%20craft%20experiences."
+/>
+</p>
+
+<!-- ================= FOOTER ================= --> 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:141E30,50:243B55,100:141E30"/> </p> 
