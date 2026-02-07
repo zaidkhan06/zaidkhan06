@@ -54,8 +54,23 @@ const zaid = {
 🧰 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,postman,figma,vercel,netlify,render&perline=8"/> </p>
 <!-- ================= GITHUB STATS ================= -->
-📊 GitHub Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaidkhan06&show_icons=true&theme=tokyonight&border_radius=20"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidkhan06&theme=tokyonight&border_radius=20"/> </p> <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidkhan06&layout=compact&theme=tokyonight&border_radius=20"/> </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=zaidkhan06&show_icons=true&theme=tokyonight&border_radius=20&cache_seconds=1800" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=zaidkhan06&theme=tokyonight&border_radius=20" height="180"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidkhan06&layout=compact&theme=tokyonight&border_radius=20&cache_seconds=1800" height="180"/>
+
+</p>
+
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 📈 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidkhan06&theme=tokyo-night&border_radius=20"/> </p>
