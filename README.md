@@ -65,4 +65,4 @@ const zaid = {
 <!-- ================= FUN FACT ================= -->
 ⚡ Fun Fact
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=I+don’t+just+write+code+—+I+craft+experiences."/> </p>
-<!-- ================= FOOTER ================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:141E30,50:243B55,100:141E30"/> </p> ```
+<!-- ================= FOOTER ================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:141E30,50:243B55,100:141E30"/> </p> 
