@@ -59,17 +59,27 @@ const zaid = {
 
 <p align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=zaidkhan06&show_icons=true&theme=tokyonight&border_radius=20&cache_seconds=1800" height="180"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=zaidkhan06&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
+  height="180"
+/>
 
-<img src="https://streak-stats.demolab.com?user=zaidkhan06&theme=tokyonight&border_radius=20" height="180"/>
+<img 
+  src="https://streak-stats.demolab.com?user=zaidkhan06&theme=tokyonight&hide_border=true&border_radius=15" 
+  height="180"
+/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidkhan06&layout=compact&theme=tokyonight&border_radius=20&cache_seconds=1800" height="180"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidkhan06&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" 
+  height="180"
+/>
 
 </p>
+
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 📈 Contribution Graph
