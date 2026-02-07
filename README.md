@@ -53,6 +53,9 @@ const zaid = {
 <!-- ================= TECH STACK ================= -->
 🧰 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,postman,figma,vercel,netlify,render&perline=8"/> </p>
+
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -62,8 +65,12 @@ const zaid = {
   height="180"
 />
 
+</p>
+
+<p align="center">
+
 <img 
-  src="https://streak-stats.demolab.com/?user=zaidkhan06&theme=tokyonight&hide_border=true&border_radius=15" 
+  src="https://streak-stats.demolab.com?user=zaidkhan06&theme=tokyonight&hide_border=true&border_radius=15" 
   height="180"
 />
 
