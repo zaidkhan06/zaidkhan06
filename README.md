@@ -63,11 +63,11 @@ const zaid = {
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=zaidkhan06&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
   height="180"
 />
-
-  <img 
+<img 
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zaidkhan06&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" 
   height="180"
 />
+
 </p>
 
 
