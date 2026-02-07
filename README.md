@@ -53,3 +53,7 @@ const zaid = {
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,postman,figma,vercel,netlify,render&perline=8"/> </p>
 
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaidkhan06&show_icons=true&theme=tokyonight&border_radius=20"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidkhan06&theme=tokyonight&border_radius=20"/> </p> <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidkhan06&layout=compact&theme=tokyonight&border_radius=20"/> </p>
+
+
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidkhan06&theme=tokyo-night&border_radius=20"/> </p>
