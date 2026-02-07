@@ -31,24 +31,64 @@
 
 ```js
 const zaid = {
-  location: "Ujjain, Madhya Pradesh, India",
-  role: "Full Stack JavaScript Developer",
-  
-  techStack: {
-    frontend: ["React.js", "JavaScript", "HTML", "CSS", "Tailwind", "Java"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB", "MySQL"],
-  },
+  name: "Zaid Khan",
 
-  interests: [
-    "Building scalable web apps",
-    "Designing clean UI/UX",
-    "Reusable component architecture",
-    "Modern frontend engineering"
+  location: "Ujjain, Madhya Pradesh, India",
+
+  role: "Full Stack MERN Developer",
+
+  education: "B.Tech in Computer Science Engineering",
+
+  techStack: {
+    
+    frontend: [
+      "React.js",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "Bootstrap"
+    ],
+
+    backend: [
+      "Node.js",
+      "Express.js",
+      "REST APIs"
+    ],
+
+    database: [
+      "MongoDB",
+      "MySQL"
+    ],
+
+    programmingLanguages: [
+      "JavaScript",
+      "Java"
+    ],
+
+    tools: [
+      "Git",
+      "GitHub",
+      "Postman",
+      "Vercel",
+      "Render"
+    ]
+  },
+  currentFocus: [
+    "Building Full Stack MERN Applications",
+    "Designing scalable backend APIs",
+    "Improving frontend architecture",
+    "Writing clean and maintainable code"
   ],
 
-  currentFocus: "Building Full Stack MERN Applications"
+  interests: [
+    "Full Stack Development",
+    "System Design",
+    "UI/UX Engineering",
+    "Modern Web Technologies"
+  ],
 };
+
 ```
 <!-- ================= TECH STACK ================= -->
 🧰 Tech Stack
