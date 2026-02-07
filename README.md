@@ -40,40 +40,13 @@ const zaid = {
   education: "B.Tech in Computer Science Engineering",
 
   techStack: {
-    
-    frontend: [
-      "React.js",
-      "JavaScript",
-      "HTML5",
-      "CSS3",
-      "Tailwind CSS",
-      "Bootstrap"
-    ],
-
-    backend: [
-      "Node.js",
-      "Express.js",
-      "REST APIs"
-    ],
-
-    database: [
-      "MongoDB",
-      "MySQL"
-    ],
-
-    programmingLanguages: [
-      "JavaScript",
-      "Java"
-    ],
-
-    tools: [
-      "Git",
-      "GitHub",
-      "Postman",
-      "Vercel",
-      "Render"
-    ]
+    frontend: ["React.js", "JavaScript", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap"],
+    backend: ["Node.js", "Express.js", "REST APIs"],
+    database: ["MongoDB", "MySQL"],
+    programmingLanguages: ["JavaScript", "Java"],
+    tools: ["Git", "GitHub", "Postman", "Vercel", "Render"]
   },
+
   currentFocus: [
     "Building Full Stack MERN Applications",
     "Designing scalable backend APIs",
