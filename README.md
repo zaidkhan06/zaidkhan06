@@ -49,7 +49,7 @@ const zaid = {
 
   currentFocus: "Building Full Stack MERN Applications"
 };
-
+```
 <!-- ================= TECH STACK ================= -->
 🧰 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,postman,figma,vercel,netlify,render&perline=8"/> </p>
