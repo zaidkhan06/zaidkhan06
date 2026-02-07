@@ -58,14 +58,14 @@ const zaid = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
 <img 
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=zaidkhan06&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
   height="180"
 />
 </p>
 
-<p align="center">
+<p align="right">
 <img 
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zaidkhan06&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" 
   height="180"
