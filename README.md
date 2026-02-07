@@ -57,3 +57,6 @@ const zaid = {
 
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidkhan06&theme=tokyo-night&border_radius=20"/> </p>
+
+
+<p align="center"> <img src="https://raw.githubusercontent.com/zaidkhan06/zaidkhan06/output/github-contribution-grid-snake.svg"/> </p>
