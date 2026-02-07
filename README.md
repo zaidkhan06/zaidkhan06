@@ -49,14 +49,20 @@ const zaid = {
 
   currentFocus: "Building Full Stack MERN Applications"
 };
-```
+
+<!-- ================= TECH STACK ================= -->
+🧰 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,postman,figma,vercel,netlify,render&perline=8"/> </p>
-
+<!-- ================= GITHUB STATS ================= -->
+📊 GitHub Stats
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaidkhan06&show_icons=true&theme=tokyonight&border_radius=20"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidkhan06&theme=tokyonight&border_radius=20"/> </p> <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidkhan06&layout=compact&theme=tokyonight&border_radius=20"/> </p>
-
-
-
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+📈 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidkhan06&theme=tokyo-night&border_radius=20"/> </p>
-
-
+<!-- ================= SNAKE ANIMATION ================= -->
+🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/zaidkhan06/zaidkhan06/output/github-contribution-grid-snake.svg"/> </p>
+<!-- ================= FUN FACT ================= -->
+⚡ Fun Fact
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=I+don’t+just+write+code+—+I+craft+experiences."/> </p>
+<!-- ================= FOOTER ================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:141E30,50:243B55,100:141E30"/> </p> ```
