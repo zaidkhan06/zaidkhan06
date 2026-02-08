@@ -35,8 +35,6 @@ const zaid = {
 
   location: "Ujjain, Madhya Pradesh, India",
 
-  role: "Full Stack MERN Developer",
-
   education: "B.Tech in Computer Science Engineering",
 
   techStack: {
