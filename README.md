@@ -42,7 +42,7 @@ const zaid = {
     backend: ["Node.js", "Express.js", "REST APIs"],
     database: ["MongoDB", "MySQL"],
     programmingLanguages: ["JavaScript", "Java"],
-    tools: ["Git", "GitHub", "Postman", "Vercel", "Render"]
+    tools: ["Git", "GitHub", "Postman", "Vercel", "Render", "Jira"]
   },
 
   currentFocus: [
