@@ -91,7 +91,7 @@ const zaid = {
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/zaidkhan06/zaidkhan06/output/github-contribution-grid-snake.svg"/> </p>
 <!-- ================= FUN FACT ================= -->
-## ⚡ Fun Fac
+## ⚡ Fun Fact
 
 <p align="center">
 <img 
