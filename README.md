@@ -62,7 +62,7 @@ const zaid = {
 
 ```
 <!-- ================= TECH STACK ================= -->
-🧰 Tech Stack
+🧰 Tech Stac
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,postman,figma,vercel,netlify,render&perline=8"/> </p>
 
 
